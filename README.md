@@ -2,6 +2,9 @@
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript.
 
+## Live Demo
+https://nandhinisivakumar27.github.io/todo-list/
+
 ## Features
 - Add tasks
 - Simple user interface
@@ -11,10 +14,6 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 - HTML
 - CSS
 - JavaScript
-
-## How to Run
-1. Download the project
-2. Open index.html in a browser
 
 ## Author
 Nandhinisivakumar
