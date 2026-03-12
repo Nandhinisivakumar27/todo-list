@@ -17,4 +17,4 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 2. Open index.html in a browser
 
 ## Author
-Pragavi
+Nandhinisivakumar
